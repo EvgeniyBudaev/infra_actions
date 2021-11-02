@@ -8,3 +8,8 @@ cd infra_project
 python manage.py migrate
 5) Запуск сервера
 python manage.py runserver
+
+6) Запуск тестов на проверку PEP8
+flack8
+7) Для устранения ошибок I1005,...
+isort .
