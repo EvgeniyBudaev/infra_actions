@@ -12,7 +12,7 @@ python manage.py runserver
 Workflow: PEP8
 
 6) Запуск тестов на проверку PEP8
-flack8
+flake8
 7) Для устранения ошибок I1005,...
 isort .
 
